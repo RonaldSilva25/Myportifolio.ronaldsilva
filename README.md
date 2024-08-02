@@ -1,14 +1,10 @@
-
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
-
 # Sobre o projeto
-
-https://wmazoni-sds1.netlify.app
 
 Meu primeiro projeto portifolio usando tecnologias estudadas nos meus primeiros anos de estudo!
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+## Layout Web do portifolio
+
+![Mobile 1](link) ![Mobile 2](link)
 
 ## Layout web
 ![Web 1](link)
@@ -16,7 +12,7 @@ Meu primeiro projeto portifolio usando tecnologias estudadas nos meus primeiros 
 ![Web 2](link)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](link)
 
 # Tecnologias utilizadas
 ## Front end
